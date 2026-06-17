@@ -1,0 +1,130 @@
+#EXTM3U
+
+###############
+### EUROSPORT
+###############
+
+#EXTINF:-1 group-title="EUROSPORT" tvg-name="Eurosport 1 720p", Eurosport 1 720p
+http://192.168.1.132:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
+
+#EXTINF:-1 group-title="EUROSPORT" tvg-name="Eurosport 1 1080p", Eurosport 1 1080p
+http://192.168.1.132:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a
+
+#EXTINF:-1 group-title="EUROSPORT" tvg-name="Eurosport 2 720p", Eurosport 2 720p
+http://192.168.1.132:6878/ace/getstream?id=7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
+
+#EXTINF:-1 group-title="EUROSPORT" tvg-name="Eurosport 2 1080p", Eurosport 2 1080p
+http://192.168.1.132:6878/ace/getstream?id=c6180a86440004748e2abe34d6f31eed8a218a3a
+
+########################
+### MOVISTAR DEPORTES
+########################
+
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-name="M+ Deportes 1080p", M+ Deportes 1080p
+http://192.168.1.132:6878/ace/getstream?id=cf5327fe9c962a29dfff3868f4349ff2b0b4662f
+
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-name="M+ Deportes 2 720p", M+ Deportes 2 720p
+http://192.168.1.132:6878/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da90
+
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-name="M+ Deportes 2 720p (alt)", M+ Deportes 2 720p **
+http://192.168.1.132:6878/ace/getstream?id=fd2aea1aa8fcddebfda1644118c6806230a1d539
+
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-name="M+ Deportes 2 1080p", M+ Deportes 2 1080p
+http://192.168.1.132:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee
+
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-name="M+ Deportes 2 1080p (alt)", M+ Deportes 2 1080p **
+http://192.168.1.132:6878/ace/getstream?id=8cd8fd69c6755ec452e9e74b33a0d1a653452191
+
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-name="M+ Deportes 3 720p", M+ Deportes 3 720p
+http://192.168.1.132:6878/ace/getstream?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
+
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-name="M+ Deportes 3 1080p", M+ Deportes 3 1080p
+http://192.168.1.132:6878/ace/getstream?id=84aed52c5deb78f58595d88250e7a2bd04dfd810
+
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-name="M+ Deportes 4 1080p", M+ Deportes 4 1080p
+http://192.168.1.132:6878/ace/getstream?id=7bede102385c65a545db531af476ef18c31f6258
+
+#EXTINF:-1 group-title="M+ DEPORTES" tvg-name="M+ Vamos 720p", M+ Vamos 720p
+http://192.168.1.132:6878/ace/getstream?id=8686522bd5d0b123cbc94ad4a12f2d3a18492479
+
+###########
+### TDT
+###########
+
+#EXTINF:-1 group-title="TDT" tvg-name="La 1 TVE 4K", La 1 TVE 4K
+http://192.168.1.132:6878/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
+
+#EXTINF:-1 group-title="TDT" tvg-name="La 1 TVE 4K (alt)", La 1 TVE 4K **
+http://192.168.1.132:6878/ace/getstream?id=23c952c5b375715db822f2783803c6e28fab0e34
+
+#EXTINF:-1 group-title="TDT" tvg-name="La 1 TVE", La 1 TVE
+http://192.168.1.132:6878/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
+
+#EXTINF:-1 group-title="TDT" tvg-name="La 1 TVE (alt)", La 1 TVE **
+http://192.168.1.132:6878/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
+
+################
+### DEPORTES
+################
+
+#EXTINF:-1 group-title="DEPORTES" tvg-name="Esport3 720p", Esport3 720p
+http://192.168.1.132:6878/ace/getstream?id=739792a3225e5eb3056f4faa7b1137c7f161f23c
+
+#EXTINF:-1 group-title="DEPORTES" tvg-name="Esport3 720p (alt)", Esport3 720p **
+http://192.168.1.132:6878/ace/getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3
+
+#EXTINF:-1 group-title="DEPORTES" tvg-name="RALLY TV 1080p", RALLY TV 1080p
+http://192.168.1.132:6878/ace/getstream?id=64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9
+
+#EXTINF:-1 group-title="DEPORTES" tvg-name="RALLY TV (alt)", RALLY TV
+http://192.168.1.132:6878/ace/getstream?id=12404b00d2787995d639ccf71a80da5d39d153f9
+
+#EXTINF:-1 group-title="DEPORTES" tvg-name="Teledeporte 1080p", Teledeporte 1080p
+http://192.168.1.132:6878/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
+
+#EXTINF:-1 group-title="DEPORTES" tvg-name="Teledeporte 1080p (alt1)", Teledeporte 1080p **
+http://192.168.1.132:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f74f6
+
+#EXTINF:-1 group-title="DEPORTES" tvg-name="Teledeporte 1080p (alt2)", Teledeporte 1080p **
+http://192.168.1.132:6878/ace/getstream?id=77cf022557c56cdf8d8115f50e61f846ad72ee05
+
+################
+### MUNDIAL
+################
+
+#EXTINF:-1 group-title="MUNDIAL" tvg-name="Dazn Mundial 1", Dazn Mundial 1
+http://192.168.1.132:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
+
+#EXTINF:-1 group-title="MUNDIAL" tvg-name="Dazn Mundial 1 (alt)", Dazn Mundial 1 **
+http://192.168.1.132:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+
+#EXTINF:-1 group-title="MUNDIAL" tvg-name="Dazn Mundial 2", Dazn Mundial 2
+http://192.168.1.132:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
+
+#EXTINF:-1 group-title="MUNDIAL" tvg-name="Dazn Mundial 2 (alt)", Dazn Mundial 2 **
+http://192.168.1.132:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
+
+#EXTINF:-1 group-title="MUNDIAL" tvg-name="Dazn Mundial 3", Dazn Mundial 3
+http://192.168.1.132:6878/ace/getstream?id=f28f558a7699237cb4ec1e0075db4073ffc3a415
+
+#EXTINF:-1 group-title="MUNDIAL" tvg-name="Dazn Mundial 3 (alt)", Dazn Mundial 3 **
+http://192.168.1.132:6878/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
+
+#EXTINF:-1 group-title="MUNDIAL" tvg-name="Dazn Mundial 4", Dazn Mundial 4
+http://192.168.1.132:6878/ace/getstream?id=584e20154750a15d14cb59953bb9cdd923c331bb
+
+#EXTINF:-1 group-title="MUNDIAL" tvg-name="Dazn Mundial 4 (alt)", Dazn Mundial 4 **
+http://192.168.1.132:6878/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
+
+################
+### DAZN F1
+################
+#EXTINF:-1 group-title="DAZN F1" tvg-name="DAZN F1 4K", DAZN F1 4K
+http://192.168.1.132:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+
+###############
+### TENNIS
+###############
+
+#EXTINF:-1 group-title="TENNIS" tvg-name="Tennis Channel 1080p", Tennis Channel 1080p
+http://192.168.1.132:6878/ace/getstream?id=43c549e5781f5a923b76f8f29cde122b5be164eb
