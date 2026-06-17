@@ -4,9 +4,6 @@
 ### EUROSPORT
 ###############
 
-#EXTINF:-1 group-title="EUROSPORT" tvg-name="Eurosport 1 720p", Eurosport 1 720p
-http://192.168.1.132:6878/ace/getstream?id=313213b3b99c0f7437f68c8ea5a7b2b6d7b8a153
-
 #EXTINF:-1 group-title="EUROSPORT" tvg-name="Eurosport 1 1080p", Eurosport 1 1080p
 http://192.168.1.132:6878/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a
 
