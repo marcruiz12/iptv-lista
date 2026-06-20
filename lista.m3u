@@ -92,10 +92,10 @@ http://192.168.1.137:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f7
 
 === HYPERMOTION ===
 
-#EXTINF:-1 tvg-name="LaLiga TV Hypermotion 720p" group-title="Deportes",LaLiga TV Hypermotion 720p
+#EXTINF:-1 tvg-name="LaLiga TV Hypermotion 720p" group-title="Hypermotion",LaLiga TV Hypermotion 720p
 http://192.168.1.137:6878/ace/getstream?id=2c54a4def58f41fc0d2163450a63f12955b656aa
 
-#EXTINF:-1 tvg-name="LaLiga TV Hypermotion 1080p" group-title="Deportes",LaLiga TV Hypermotion 1080p
+#EXTINF:-1 tvg-name="LaLiga TV Hypermotion 1080p" group-title="Hypermotion",LaLiga TV Hypermotion 1080p
 http://192.168.1.137:6878/ace/getstream?id=e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
 
 === MUNDIAL ===
