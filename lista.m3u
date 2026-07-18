@@ -3,10 +3,10 @@
 === BALONCESTO ===
 
 #EXTINF:-1 tvg-name="DAZN Baloncesto 720p" group-title="Baloncesto",DAZN Baloncesto 720p
-http://192.168.1.212:6878/ace/getstream?id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
+http://192.168.1.231:6878/ace/getstream?id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
 
 #EXTINF:-1 tvg-name="DAZN Baloncesto 1080p" group-title="Baloncesto",DAZN Baloncesto 1080p
-http://192.168.1.212:6878/ace/getstream?id=6fbd92735502bdebbf1ea58f4298e49759c0cf07
+http://192.168.1.231:6878/ace/getstream?id=6fbd92735502bdebbf1ea58f4298e49759c0cf07
 
 === EUROSPORT ===
 
