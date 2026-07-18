@@ -115,25 +115,25 @@ http://192.168.1.232:8621/ace/getstream?id=bff90de77d1aef730fbfb5beb43aa6da27ac1
 === FORMULA1 ===
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 720p
-http://192.168.1.232:6878/ace/getstream?id=27d11bbeb3026231d52de16b1fac48da7a099247
+http://192.168.1.231:6878/ace/getstream?id=27d11bbeb3026231d52de16b1fac48da7a099247
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 720p (2)
-http://192.168.1.232:6878/ace/getstream?id=20086a76248efe8d5230c15d41c69bae8fa6381c
+http://192.168.1.231:8621/ace/getstream?id=20086a76248efe8d5230c15d41c69bae8fa6381c
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 720p (3)
-http://192.168.1.232:6878/ace/getstream?id=f16d68fa5ff64f3894a45062ca28e4e66f142c6a
+http://192.168.1.231:8621/ace/getstream?id=f16d68fa5ff64f3894a45062ca28e4e66f142c6a
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 1080p
-http://192.168.1.232:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
+http://192.168.1.231:8621/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 1080p (2)
-http://192.168.1.232:6878/ace/getstream?id=f8b0eae8fda973cf426311541d1668aa592f0a8c
+http://192.168.1.231:8621/ace/getstream?id=f8b0eae8fda973cf426311541d1668aa592f0a8c
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 1080p (3)
-http://192.168.1.232:6878/ace/getstream?id=0a81ba020d498aca1248e0591d8ffab99eb80bd4
+http://192.168.1.231:8621/ace/getstream?id=0a81ba020d498aca1248e0591d8ffab99eb80bd4
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 1080p (4)
-http://192.168.1.232:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e
+http://192.168.1.231:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e
 
 === TENNIS ===
 
