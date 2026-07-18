@@ -101,30 +101,30 @@ http://192.168.1.231:6878/ace/getstream?id=e4cbd1a425120b1f44b523a55bd1a98c31cad
 === MUNDIAL ===
 
 #EXTINF:-1 tvg-name="Dazn Mundial 1" group-title="Mundial",Dazn Mundial 1
-http://192.168.1.232:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+http://192.168.1.230:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
 
 #EXTINF:-1 tvg-name="Dazn Mundial 1 (2)" group-title="Mundial",Dazn Mundial 1 (2)
-http://192.168.1.232:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
+http://192.168.1.230:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
 
 #EXTINF:-1 tvg-name="Direct Sport 2 1080p" group-title="Mundial",Direct Sport 2 1080p
-http://192.168.1.232:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
+http://192.168.1.230:6878/ace/getstream?id=63b1933154919d116f08e33ffcb31a23f9483989
 
 #EXTINF:-1 tvg-name="TyC Sports 1080p" group-title="Mundial",TyC Sports 1080p
-http://192.168.1.232:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
+http://192.168.1.230:6878/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
 
 === FORMULA1 ===
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 1080p
-http://192.168.1.232:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e
+http://192.168.1.230:6878/ace/getstream?id=02be332ebead0484a5354fa25e97b6833b8b129e
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 1080p (2)
-http://192.168.1.232:6878/ace/getstream?id=8b0eae8fda973cf426311541d1668aa592f0a8c
+http://192.168.1.230:6878/ace/getstream?id=8b0eae8fda973cf426311541d1668aa592f0a8c
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 1080p (3)
-http://192.168.1.232:6878/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
+http://192.168.1.230:6878/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 1080p (4)
-http://192.168.1.232:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
+http://192.168.1.230:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
 
 === TENNIS ===
 
