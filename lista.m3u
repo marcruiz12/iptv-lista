@@ -99,7 +99,7 @@ http://192.168.1.212:6878/ace/getstream?id=3b50a1dca0977e3761d016edd79314ab797f7
 === LIGADECAMPEONES ===
 
 #EXTINF:-1 tvg-name="LIGADECAMPEONES" group-title="LIGADECAMPEONES",Liga de Campeones2
-http://192.168.1.231:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
+http://192.168.1.140:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
 
 === FORMULA1 ===
 
