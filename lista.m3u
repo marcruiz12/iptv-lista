@@ -112,6 +112,12 @@ http://192.168.1.140:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922
 #EXTINF:-1 tvg-name="LIGADECAMPEONES" group-title="LIGADECAMPEONES",Liga de Campeones2 (2)
 http://192.168.1.140:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 
+#EXTINF:-1 tvg-name="LIGADECAMPEONES" group-title="LIGADECAMPEONES",Liga de Campeones4
+http://192.168.1.140:6878/ace/getstream?id=91af434b0bb521189286f8cbbab1aed39d7536fe
+
+#EXTINF:-1 tvg-name="LIGADECAMPEONES" group-title="LIGADECAMPEONES",Liga de Campeones4 (2)
+http://192.168.1.140:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+
 === FORMULA1 ===
 
 #EXTINF:-1 tvg-name="DAZN F1 HD" group-title="FORMULA1",DAZN F1 1080p
